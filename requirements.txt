@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+llama-index
+llama-index-llms-gemini
+google-generativeai
+pydantic
+python-multipart
